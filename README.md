@@ -1,20 +1,20 @@
 ## Summarization 
 
-- #### [Global-Encoding](https://github.com/lancopku/Global-Encoding)
+- ### [Global-Encoding](https://github.com/lancopku/Global-Encoding)
 Code for “Global Encoding for Abstractive Summarization”[[pdf]](https://arxiv.org/abs/1805.03989)
 
-- #### [HSSC](https://github.com/lancopku/HSSC)
+- ### [HSSC](https://github.com/lancopku/HSSC)
 Code for ”A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification”[[pdf]](https://arxiv.org/pdf/1805.01089.pdf)
 
-#### LancoSum (toolkit)
+- ### LancoSum (toolkit)
 
-#### [WEAN](https://github.com/lancopku/WEAN)
+- ### [WEAN](https://github.com/lancopku/WEAN)
 Code for ”Query and Output: Generating Words by Querying Distributed Word Representations for Paraphrase Generation”[[pdf]](https://arxiv.org/pdf/1803.01465.pdf)
 
-#### [SRB](https://github.com/lancopku/SRB)
+- ### [SRB](https://github.com/lancopku/SRB)
 Code for "Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1706.02459.pdf)
 
-#### [superAE](https://github.com/lancopku/superAE)
+- ### [superAE](https://github.com/lancopku/superAE)
 Code for "Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1805.04869.pdf)
 
 
