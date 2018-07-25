@@ -1,91 +1,3 @@
-## Summarization 
-
-- ### [Global-Encoding](https://github.com/lancopku/Global-Encoding)
-
-  Code for “Global Encoding for Abstractive Summarization” [[pdf]]:(https://arxiv.org/abs/1805.03989)
-
-- ### [HSSC](https://github.com/lancopku/HSSC)
-
-  Code for ”A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification”[[pdf]](https://arxiv.org/pdf/1805.01089.pdf)
-
-
-- ### LancoSum (toolkit)
-
-- ### [WEAN](https://github.com/lancopku/WEAN)
-
-  Code for ”Query and Output: Generating Words by Querying Distributed Word Representations for Paraphrase Generation”[[pdf]](https://arxiv.org/pdf/1803.01465.pdf)
-
-
-- ### [SRB](https://github.com/lancopku/SRB)
-
-  Code for "Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1706.02459.pdf)
-
-
-- ### [superAE](https://github.com/lancopku/superAE)
-
-  Code for "Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1805.04869.pdf)
-
-
-
-## Machine translation
-
-- ### [Deconv Dec](https://github.com/lancopku/DeconvDec)
-
-  Code for "Deconvolution-Based Global Decoding for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1806.03692.pdf)
-
-- ### [bag-of-words](https://github.com/lancopku/bag-of-words)
-
-  Code for "Bag-of-Words as Target for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1805.04871.pdf)
-
-- ### [ACA4NMT](https://github.com/lancopku/ACA4NMT)
-
-  Code for “Decoding History Based Adaptive Control of Attention for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1802.01812.pdf)
-
-
-##Sequence Labeling
-
-- ### [ChineseNER](https://github.com/lancopku/ChineseNER)
-
-  Code for "Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model”[[pdf]]
-
-
-- ### PKUSeg (toolkit)
-
-- ### [Multi-Order-LSTM](https://github.com/lancopku/Multi-Order-LSTM)
-
-  Code for "Does Higher Order LSTM Have Better Accuracy for Segmenting and Labeling Sequence Data?”[[pdf]](https://arxiv.org/pdf/1711.08231.pdf)
-
-
-- ### [Decode-CRF](https://github.com/lancopku/Decode-CRF)
-
-  Code for “Conditional Random Fields with Decode-based Learning: Simpler and Faster”[[pdf]](https://arxiv.org/pdf/1503.08381.pdf)
-
-
-- ### [SAPO](https://github.com/lancopku/SAPO)
-
-  Code for ”Towards Shockingly Easy Structured Classification: A Search-based Probabilistic Online Learning Framework”[[pdf]](https://arxiv.org/pdf/1503.08381.pdf)
-
-
-
-## Generation
-
-- ### [Unpaired-Sentiment-Translation](https://github.com/lancopku/Unpaired-Sentiment-Translation)
-
-  Code for "Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach" [[pdf]](https://arxiv.org/abs/1805.05181)
-
-
-- ### [DPGAN](https://github.com/lancopku/DPGAN)
-
-  Code for “DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text” [[pdf]](https://arxiv.org/pdf/1802.01345.pdf)
-
-
-
-## Text Classification
-
-- ###  [SGM](https://github.com/lancopku/SGM)
-
-  Code for “SGM: Sequence Generation Model for Multi-label Classification”[[pdf]](https://arxiv.org/pdf/1806.04822.pdf)
-
 
 ## Machine Learning
 
@@ -103,6 +15,104 @@
 
   Code for “paper Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks”[[pdf]](https://arxiv.org/pdf/1711.06528.pdf)
 
+## Summarization 
+
+
+- ### [LancoSum](https://github.com/lancopku/LancoSum)(toolkit)
+  This repository provides a toolkit for abstractive summarization.
+
+- ### [Global-Encoding](https://github.com/lancopku/Global-Encoding)
+
+  Code for “Global Encoding for Abstractive Summarization” [[pdf]](https://arxiv.org/abs/1805.03989)
+
+- ### [HSSC](https://github.com/lancopku/HSSC)
+
+  Code for ”A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification”[[pdf]](https://arxiv.org/pdf/1805.01089.pdf)
+
+
+- ### [WEAN](https://github.com/lancopku/WEAN)
+
+  Code for ”Query and Output: Generating Words by Querying Distributed Word Representations for Paraphrase Generation”[[pdf]](https://arxiv.org/pdf/1803.01465.pdf)
+
+
+- ### [SRB](https://github.com/lancopku/SRB)
+
+  Code for "Improving Semantic Relevance for Sequence-to-Sequence Learning of Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1706.02459.pdf)
+
+
+- ### [superAE](https://github.com/lancopku/superAE)
+
+  Code for "Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1805.04869.pdf)
+
+
+## Machine translation
+
+- ### [Deconv Dec](https://github.com/lancopku/DeconvDec)
+
+  Code for "Deconvolution-Based Global Decoding for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1806.03692.pdf)
+
+- ### [bag-of-words](https://github.com/lancopku/bag-of-words)
+
+  Code for "Bag-of-Words as Target for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1805.04871.pdf)
+
+- ### [ACA4NMT](https://github.com/lancopku/ACA4NMT)
+
+  Code for “Decoding History Based Adaptive Control of Attention for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1802.01812.pdf)
+
+
+## Generation
+
+- ### [Unpaired-Sentiment-Translation](https://github.com/lancopku/Unpaired-Sentiment-Translation)
+
+  Code for "Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach" [[pdf]](https://arxiv.org/abs/1805.05181)
+
+
+- ### [DPGAN](https://github.com/lancopku/DPGAN)
+
+  Code for “DP-GAN: Diversity-Promoting Generative Adversarial Network for Generating Informative and Diversified Text” [[pdf]](https://arxiv.org/pdf/1802.01345.pdf)
+
+
+
+
+## Dependency Parsing
+
+- ### [nndep](https://github.com/lancopku/nndep)
+
+  Code for “Hybrid Oracle: Making Use of Ambiguity in Transition-based Chinese Dependency Parsing”[[pdf]](https://arxiv.org/pdf/1711.10163.pdf)
+
+
+## Sequence Labeling
+
+- ### [PKUSeg](https://github.com/lancopku/PKUSeg) (toolkit)
+
+  This repository provides a toolkit for Chinese segmentation.
+
+- ### [ChineseNER](https://github.com/lancopku/ChineseNER)
+
+  Code for "Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model”[[pdf]]
+  
+
+- ### [Multi-Order-LSTM](https://github.com/lancopku/Multi-Order-LSTM)
+
+  Code for "Does Higher Order LSTM Have Better Accuracy for Segmenting and Labeling Sequence Data?”[[pdf]](https://arxiv.org/pdf/1711.08231.pdf)
+
+
+- ### [Decode-CRF](https://github.com/lancopku/Decode-CRF)
+
+  Code for “Conditional Random Fields with Decode-based Learning: Simpler and Faster”[[pdf]](https://arxiv.org/pdf/1503.08381.pdf)
+
+
+- ### [SAPO](https://github.com/lancopku/SAPO)
+
+  Code for ”Towards Shockingly Easy Structured Classification: A Search-based Probabilistic Online Learning Framework”[[pdf]](https://arxiv.org/pdf/1503.08381.pdf)
+
+
+## Text Classification
+
+- ###  [SGM](https://github.com/lancopku/SGM)
+
+  Code for “SGM: Sequence Generation Model for Multi-label Classification”[[pdf]](https://arxiv.org/pdf/1806.04822.pdf)
+
 
 
 ## Applied Tasks
@@ -116,14 +126,6 @@
 - ### [tcm_prescription_generation](https://github.com/lancopku/tcm_prescription_generation)
 
   Code for “Exploration on Generating Traditional ChineseMedicine Prescriptions from Symptoms with an End-to-End Approach”[[pdf]](https://arxiv.org/pdf/1801.09030.pdf)
-
-
-
-## Dependency Parsing
-
-- ### [nndep](https://github.com/lancopku/nndep)
-
-  Code for “Hybrid Oracle: Making Use of Ambiguity in Transition-based Chinese Dependency Parsing”[[pdf]](https://arxiv.org/pdf/1711.10163.pdf)
 
 
 
