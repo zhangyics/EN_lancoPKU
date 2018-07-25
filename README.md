@@ -18,7 +18,7 @@
 ## Summarization 
 
 
-- ### [LancoSum](https://github.com/lancopku/LancoSum)(toolkit)
+- ### [LancoSum](https://github.com/lancopku/LancoSum) (toolkit)
   This repository provides a toolkit for abstractive summarization.
 
 - ### [Global-Encoding](https://github.com/lancopku/Global-Encoding)
