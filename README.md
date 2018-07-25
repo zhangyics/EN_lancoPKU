@@ -89,7 +89,7 @@
 
 - ### [ChineseNER](https://github.com/lancopku/ChineseNER)
 
-  Code for "Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model”[[pdf]]
+  Code for "Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model”
   
 
 - ### [Multi-Order-LSTM](https://github.com/lancopku/Multi-Order-LSTM)
