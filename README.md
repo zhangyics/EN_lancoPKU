@@ -1,9 +1,9 @@
 ## Summarization 
 
-#### - [Global-Encoding](https://github.com/lancopku/Global-Encoding)
+- #### [Global-Encoding](https://github.com/lancopku/Global-Encoding)
 Code for “Global Encoding for Abstractive Summarization”[[pdf]](https://arxiv.org/abs/1805.03989)
 
-#### - [HSSC](https://github.com/lancopku/HSSC)
+- #### [HSSC](https://github.com/lancopku/HSSC)
 Code for ”A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification”[[pdf]](https://arxiv.org/pdf/1805.01089.pdf)
 
 #### LancoSum (toolkit)
