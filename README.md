@@ -39,7 +39,7 @@
 - ### [WEAN](https://github.com/lancopku/WEAN)
 
   Code for “Query and Output: Generating Words by Querying Distributed Word Representations for Paraphrase Generation”[[pdf]](https://arxiv.org/pdf/1803.01465.pdf).    
-  论文”Query and Output: Generating Words by Querying Distributed Word Representations for Paraphrase Generation”[[pdf]](https://arxiv.org/pdf/1803.01465.pdf)相关代码。
+  论文“Query and Output: Generating Words by Querying Distributed Word Representations for Paraphrase Generation”[[pdf]](https://arxiv.org/pdf/1803.01465.pdf)相关代码。
 
 
 - ### [SRB](https://github.com/lancopku/SRB)
@@ -64,7 +64,7 @@
 - ### [bag-of-words](https://github.com/lancopku/bag-of-words)
 
   Code for “Bag-of-Words as Target for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1805.04871.pdf).  
-  论文"Bag-of-Words as Target for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1805.04871.pdf)相关代码。
+  论文“Bag-of-Words as Target for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1805.04871.pdf)相关代码。
 
 - ### [ACA4NMT](https://github.com/lancopku/ACA4NMT)
 
@@ -104,7 +104,7 @@
 - ### [ChineseNER](https://github.com/lancopku/ChineseNER)
 
   Code for “Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model”  
-  论文"Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model”相关代码。
+  论文“Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model”相关代码。
   
 
 - ### [Multi-Order-LSTM](https://github.com/lancopku/Multi-Order-LSTM)
