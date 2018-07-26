@@ -3,7 +3,7 @@
 
 - ### [meProp](https://github.com/lancopku/meProp)
 
-  Code for “meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting”[[pdf]](http://proceedings.mlr.press/v70/sun17c/sun17c.pdf). This work only computes a small subset of the full gradient to update the model parameters in back propagation, which improves model accuracy and reduces the overfitting risk.
+  Code for “meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting”[[pdf]](http://proceedings.mlr.press/v70/sun17c/sun17c.pdf). This work only computes a small subset of the full gradient to update the model parameters in back propagation, which improves model accuracy and reduces the overfitting risk.  
   论文 “meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting”[[pdf]](http://proceedings.mlr.press/v70/sun17c/sun17c.pdf)相关代码。此项工作在后向传播中仅使用一小部分梯度来更新模型参数，提高了模型准确度并减少了过拟合风险。
 
 
