@@ -18,11 +18,36 @@
   Code for “paper Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks”[[pdf]](https://arxiv.org/pdf/1710.10393.pdf). This work learns label representations and makes the originally unrelated labels have continuous interactions with each other during the training process. The trained model can achieve substantially higher accuracy and with faster convergence speed. Meanwhile, the learned label embedding is reasonable and interpretable.  
   论文 “paper Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks”[[pdf]](https://arxiv.org/pdf/1710.10393.pdf)相关代码。这项工作在训练过程中学习标签表示，并让以往并无关联的标签彼此之间产生了交互。模型收敛加快且极大地提高了准确度。同时，学习到的标签表示也更具合理性与可解释性。
 
+
+## Machine Translation
+
+- ### [Deconv Dec](https://github.com/lancopku/DeconvDec)
+
+  Code for “Deconvolution-Based Global Decoding for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1806.03692.pdf). This work proposes a new NMT model that decodes the
+sequence with the guidance of its structural prediction of the context of the target sequence. The model gets very competitive results. It is robust to translating sentences of different lengths and it also
+reduces repetition repetition phenomenon.  
+  论文"Deconvolution-Based Global Decoding for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1806.03692.pdf)相关代码。这项工作提出了一个新的神经机器翻译模型，以对目标序列上下文的结构预测为指导来生成序列，模型获得了极具竞争力的结果，对于不同长度的序列鲁棒性更强，且减轻了生成序列中的重复现象。
+
+- ### [bag-of-words](https://github.com/lancopku/bag-of-words)
+
+  Code for “Bag-of-Words as Target for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1805.04871.pdf). This work uses both the sentences and the bag-of-words as targets in the training stage, which encourages
+the model to generate the potentially correct sentences that are not appeared in the training set. Experiments show the model outperforms the strong baselines by a large margin.
+  论文“Bag-of-Words as Target for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1805.04871.pdf)相关代码。这项工作将目标语句与目标的词袋都作为训练目标，使得模型能够生成出有可能正确却不在训练集中的句子。实验显示模型BLEU值大幅优于基线模型。
+
+- ### [ACA4NMT](https://github.com/lancopku/ACA4NMT)
+
+  Code for “Decoding History Based Adaptive Control of Attention for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1802.01812.pdf). This model learns to control the attention by
+keeping track of the decoding history. The model is capable of generating translation with less repetition
+and higher accuracy.     
+  论文“Decoding History Based Adaptive Control of Attention for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1802.01812.pdf)相关代码。该模型通过追踪解码历史来控制注意力机制。模型能够较少重复地生成翻译且精度更高。
+
+
+
 ## Summarization 
 
 
 - ### [LancoSum](https://github.com/lancopku/LancoSum) (toolkit)
-  This repository provides a toolkit for abstractive summarization, which can assist researchers to implement the common baseline, the attention-based sequence-to-sequence model, as well as three high quality models proposed by our group LancoPKU recently. By modifying the configuration file or the command options, one can easily apply the models to his own work. 
+  This repository provides a toolkit for abstractive summarization, which can assist researchers to implement the common baseline, the attention-based sequence-to-sequence model, as well as three high quality models proposed by our group LancoPKU recently. By modifying the configuration file or the command options, one can easily apply the models to his own work.   
   此项目提供了一个针对生成式摘要的工具包，包含通用的基线模型——基于注意力机制的序列到序列模型以及LancoPKU组近期提出的三个高质量摘要模型。通过修改配置文件或命令行，研究者可方便地将其应用至自己的工作。
 
 - ### [Global-Encoding](https://github.com/lancopku/Global-Encoding)
@@ -58,28 +83,6 @@ high similarity between the representations of texts and summaries.
 
   Code for “Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1805.04869.pdf). This work regard a summary autoencoder as an assistant supervisor of Seq2Seq to get more informative representation of source content. Experimental results show that the model achieves the state-of-the-art performances on the benchmark dataset.   
   论文“Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1805.04869.pdf)相关代码。这项工作将摘要自编码器作为给序列到序列模型的一个监督信号，来获得更具信息量的源文本表示。实验结果显示模型在基准数据集上获得了最优效果。
-
-## Machine Translation
-
-- ### [Deconv Dec](https://github.com/lancopku/DeconvDec)
-
-  Code for “Deconvolution-Based Global Decoding for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1806.03692.pdf). This work proposes a new NMT model that decodes the
-sequence with the guidance of its structural prediction of the context of the target sequence. The model gets very competitive results. It is robust to translating sentences of different lengths and it also
-reduces repetition repetition phenomenon.  
-  论文"Deconvolution-Based Global Decoding for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1806.03692.pdf)相关代码。这项工作提出了一个新的神经机器翻译模型，以对目标序列上下文的结构预测为指导来生成序列，模型获得了极具竞争力的结果，对于不同长度的序列鲁棒性更强，且减轻了生成序列中的重复现象。
-
-- ### [bag-of-words](https://github.com/lancopku/bag-of-words)
-
-  Code for “Bag-of-Words as Target for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1805.04871.pdf). This work uses both the sentences and the bag-of-words as targets in the training stage, which encourages
-the model to generate the potentially correct sentences that are not appeared in the training set. Experiments show the model outperforms the strong baselines by a large margin.
-  论文“Bag-of-Words as Target for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1805.04871.pdf)相关代码。这项工作将目标语句与目标的词袋都作为训练目标，使得模型能够生成出有可能正确却不在训练集中的句子。实验显示模型BLEU值大幅优于基线模型。
-
-- ### [ACA4NMT](https://github.com/lancopku/ACA4NMT)
-
-  Code for “Decoding History Based Adaptive Control of Attention for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1802.01812.pdf). This model learns to control the attention by
-keeping track of the decoding history. The model is capable of generating translation with less repetition
-and higher accuracy.     
-  论文“Decoding History Based Adaptive Control of Attention for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1802.01812.pdf)相关代码。该模型通过追踪解码历史来控制注意力机制。模型能够较少重复地生成翻译且精度更高。
 
 
 ## Text Generation
