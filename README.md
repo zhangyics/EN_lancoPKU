@@ -28,7 +28,7 @@
 - ### [Global-Encoding](https://github.com/lancopku/Global-Encoding)
 
   Code for “Global Encoding for Abstractive Summarization” [[pdf]](https://arxiv.org/abs/1805.03989)  
-  论文“Global Encoding for Abstractive Summarization” [[pdf]](https://arxiv.org/abs/1805.03989)的代码。
+  论文“Global Encoding for Abstractive Summarization” [[pdf]](https://arxiv.org/abs/1805.03989)相关代码。
 
 - ### [HSSC](https://github.com/lancopku/HSSC)
 
