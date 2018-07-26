@@ -54,7 +54,7 @@
   论文“Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1805.04869.pdf)相关代码。
 
 
-## Machine translation
+## Machine Translation
 
 - ### [Deconv Dec](https://github.com/lancopku/DeconvDec)
 
@@ -72,7 +72,7 @@
   论文“Decoding History Based Adaptive Control of Attention for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1802.01812.pdf)相关代码。
 
 
-## Generation
+## Text Generation
 
 - ### [Unpaired-Sentiment-Translation](https://github.com/lancopku/Unpaired-Sentiment-Translation)
 
