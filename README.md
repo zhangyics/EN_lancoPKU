@@ -15,7 +15,7 @@
 
 - ### [Label embedding](https://github.com/lancopku/label-embedding-network)
 
-  Code for “paper Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks”[[pdf]](https://arxiv.org/pdf/1710.10393.pdf). This work learns label representations and makes the originally unrelated labels have continuous interactions with each other during the training process. The trained model can achieve substantially higher accuracy and with faster convergence speed. Meanwhile, the learned label embedding is reasonable and interpretable.
+  Code for “paper Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks”[[pdf]](https://arxiv.org/pdf/1710.10393.pdf). This work learns label representations and makes the originally unrelated labels have continuous interactions with each other during the training process. The trained model can achieve substantially higher accuracy and with faster convergence speed. Meanwhile, the learned label embedding is reasonable and interpretable.  
   论文 “paper Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks”[[pdf]](https://arxiv.org/pdf/1710.10393.pdf)相关代码。这项工作在训练过程中学习标签表示，并让以往并无关联的标签彼此之间产生了交互。模型收敛加快且极大地提高了准确度。同时，学习到的标签表示也更具合理性与可解释性。
 
 ## Summarization 
