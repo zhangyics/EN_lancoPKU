@@ -4,7 +4,7 @@
 - ### [meProp](https://github.com/lancopku/meProp)
 
   Code for “meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting”[[pdf]](http://proceedings.mlr.press/v70/sun17c/sun17c.pdf). This work only computes a small subset of the full gradient to update the model parameters in back propagation, leading to a linear reduction in the computational cost. This does not result in a larger number of training iterations. More interestingly, the accuracy of the resulting models is actually improved.  
-  论文 “meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting”[[pdf]](http://proceedings.mlr.press/v70/sun17c/sun17c.pdf)相关代码。此项工作在后向传播中仅使用一小部分梯度来更新模型参数，计算成本呈线性减少，模型训练轮数并未增加，而准确度却有所提高。
+  论文 “meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting”[[pdf]](http://proceedings.mlr.press/v70/sun17c/sun17c.pdf)相关代码。此项工作在后向传播中仅使用一小部分梯度来更新模型参数，线性减少了计算成本，并未造成训练轮数的增加，而模型准确度却有所提高。
 
 
 - ### [meSimp](https://github.com/lancopku/meSimp)
@@ -52,8 +52,8 @@ and higher accuracy.
 
 - ### [Global-Encoding](https://github.com/lancopku/Global-Encoding)
 
-  Code for “Global Encoding for Abstractive Summarization” [[pdf]](https://arxiv.org/abs/1805.03989). This work proposes a framework which controls the information flow from the encoder to the decoder based on the global information of the source context. The model outperforms the baseline models and is capable of reducing repetition.    
-  论文“Global Encoding for Abstractive Summarization” [[pdf]](https://arxiv.org/abs/1805.03989)相关代码。这项工作提出了一个基于全局源语言信息控制编码段到解码端信息流的框架，模型优于多个基线模型且能够减少重复输出。
+  Code for “Global Encoding for Abstractive Summarization” [[pdf]](https://arxiv.org/pdf/1805.03989.pdf). This work proposes a framework which controls the information flow from the encoder to the decoder based on the global information of the source context. The model outperforms the baseline models and is capable of reducing repetition.    
+  论文“Global Encoding for Abstractive Summarization” [[pdf]](https://arxiv.org/pdf/1805.03989.pdf)相关代码。这项工作提出了一个基于全局源语言信息控制编码段到解码端信息流的框架，模型优于多个基线模型且能够减少重复输出。
 
 - ### [HSSC](https://github.com/lancopku/HSSC)
 
@@ -89,8 +89,8 @@ high similarity between the representations of texts and summaries.
 
 - ### [Unpaired-Sentiment-Translation](https://github.com/lancopku/Unpaired-Sentiment-Translation)
 
-  Code for “Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach" [[pdf]](https://arxiv.org/abs/1805.05181). This work proposes a cycled reinforcement learning method to realize sentiment-to-sentiment translation. The proposed method does not rely on parallel data and significantly outperforms the state-of-the-art systems in terms of the content preservation.        
-  论文“Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach" [[pdf]](https://arxiv.org/abs/1805.05181)相关代码。这项工作提出了一个循环强化学习的方式来实现情感转换。所提出方法不依赖任何平行语料，且在内容保留程度上，显著地优于现有的最优模型。
+  Code for “Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach" [[pdf]](https://arxiv.org/pdf/1805.05181.pdf). This work proposes a cycled reinforcement learning method to realize sentiment-to-sentiment translation. The proposed method does not rely on parallel data and significantly outperforms the state-of-the-art systems in terms of the content preservation.        
+  论文“Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach" [[pdf]](https://arxiv.org/pdf/1805.05181.pdf)相关代码。这项工作提出了一个循环强化学习的方式来实现情感转换。所提出方法不依赖任何平行语料，且在内容保留程度上，显著地优于现有的最优模型。
 
 
 
@@ -104,8 +104,9 @@ high similarity between the representations of texts and summaries.
 
 - ### [nndep](https://github.com/lancopku/nndep)
 
-  Code for “Hybrid Oracle: Making Use of Ambiguity in Transition-based Chinese Dependency Parsing”[[pdf]](https://arxiv.org/pdf/1711.10163.pdf).   
-  论文“Hybrid Oracle: Making Use of Ambiguity in Transition-based Chinese Dependency Parsing”[[pdf]](https://arxiv.org/pdf/1711.10163.pdf)相关代码。
+  Code for “Hybrid Oracle: Making Use of Ambiguity in Transition-based Chinese Dependency Parsing”[[pdf]](https://arxiv.org/pdf/1711.10163.pdf). This work uses all the correct transitions for a parsing
+state to provide better supervisory signal in loss function. The new parsers outperform the parsers using the traditional oracle in Chinese dependency parsing and can be used to generate different transition sequences for a sentence.   
+  论文“Hybrid Oracle: Making Use of Ambiguity in Transition-based Chinese Dependency Parsing”[[pdf]](https://arxiv.org/pdf/1711.10163.pdf)相关代码。此项工作利用一个分析状态的所有正确转移对损失函数提供更好的监督信号。新的分析器在中文依存句法分析上优于使用传统策略的分析器，同时，此句法分析器也可用于对同一句子生成多个转移序列。
 
 ## Sequence Labeling
 
