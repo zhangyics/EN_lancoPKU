@@ -133,12 +133,6 @@ state to provide better supervisory signal in loss function. The new parsers out
   论文“Conditional Random Fields with Decode-based Learning: Simpler and Faster”[[pdf]](https://arxiv.org/pdf/1503.08381.pdf)相关代码。此项工作提出了一个基于解码的概率化在线学习方法。该方法训练很快，易于实现，准确率高，且理论可收敛。
 
 
-- ### [SAPO](https://github.com/lancopku/SAPO)
-
-  Code for “Towards Shockingly Easy Structured Classification: A Search-based Probabilistic Online Learning Framework”[[pdf]](https://arxiv.org/pdf/1503.08381.pdf).    
-  论文”Towards Shockingly Easy Structured Classification: A Search-based Probabilistic Online Learning Framework”[[pdf]](https://arxiv.org/pdf/1503.08381.pdf)相关代码。
-
-
 ## Text Classification
 
 - ###  [SGM](https://github.com/lancopku/SGM)
