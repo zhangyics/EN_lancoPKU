@@ -4,7 +4,7 @@
 - ### [meProp](https://github.com/lancopku/meProp)
 
   Code for “meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting”[[pdf]](http://proceedings.mlr.press/v70/sun17c/sun17c.pdf). This work only computes a small subset of the full gradient to update the model parameters in back propagation, leading to a linear reduction in the computational cost. This does not result in a larger number of training iterations. More interestingly, the accuracy of the resulting models is actually improved.  
-  论文 “meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting”[[pdf]](http://proceedings.mlr.press/v70/sun17c/sun17c.pdf)相关代码。此项工作在后向传播中仅使用一小部分梯度来更新模型参数，线性减少了计算成本，并未造成训练轮数的增加，而模型准确度却有所提高。
+  论文 “meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting”[[pdf]](http://proceedings.mlr.press/v70/sun17c/sun17c.pdf)相关代码。此项工作在后向传播中仅使用一小部分梯度来更新模型参数，计算成本呈线性减少，模型训练轮数并未增加，而准确度却有所提高。
 
 
 - ### [meSimp](https://github.com/lancopku/meSimp)
@@ -171,18 +171,19 @@ new dataset for automatically evaluating academic papers and propose a novel mod
 
 - ### [Chinese-Literature-NER-RE-Dataset](https://github.com/lancopku/Chinese-Literature-NER-RE-Dataset)
 
-  Data for “A Discourse-Level Named Entity Recognition and Relation Extraction Dataset for Chinese Literature Text” [[pdf]](https://arxiv.org/pdf/1711.07010.pdf).    
-  论文“A Discourse-Level Named Entity Recognition and Relation Extraction Dataset for Chinese Literature Text” [[pdf]](https://arxiv.org/pdf/1711.07010.pdf)相关数据。
+  Data for “A Discourse-Level Named Entity Recognition and Relation Extraction Dataset for Chinese Literature Text” [[pdf]](https://arxiv.org/pdf/1711.07010.pdf). This work builds a discourse-level dataset from hundreds of Chinese literature articles for improving Named Entity Recognition and Relation Extraction for Chinese literature text.    
+  论文“A Discourse-Level Named Entity Recognition and Relation Extraction Dataset for Chinese Literature Text” [[pdf]](https://arxiv.org/pdf/1711.07010.pdf)相关数据。本篇工作从数百篇中文散文中建立了一个篇章级别的数据集，旨在提高命名实体识别和关系抽取任务在散文上的表现。
 
 - ### [Chinese-Dependency-Treebank-with-Ellipsis](https://github.com/lancopku/Chinese-Dependency-Treebank-with-Ellipsis)
 
-  Data for “Building an Ellipsis-aware Chinese Dependency Treebank for Web Text”[[pdf]](https://arxiv.org/pdf/1801.06613.pdf).  
-  论文“Building an Ellipsis-aware Chinese Dependency Treebank for Web Text”[[pdf]](https://arxiv.org/pdf/1801.06613.pdf)相关数据。
+  Data for “Building an Ellipsis-aware Chinese Dependency Treebank for Web Text”[[pdf]](https://arxiv.org/pdf/1801.06613.pdf). This work builds a Chinese weibo dependency treebank which contains 572
+sentences with omissions restored and contexts reserved, aimed at improving dependency parsing for texts with ellipsis.    
+  论文“Building an Ellipsis-aware Chinese Dependency Treebank for Web Text”[[pdf]](https://arxiv.org/pdf/1801.06613.pdf)相关数据。本篇工作建立了一个中文微博依存树库，包含572个在保留语义的情况下还原了省略语的句子，旨在提高依存句法分析在存在省略的文本上的表现。
 
 - ### [Chinese-abbreviation-dataset](https://github.com/lancopku/Chinese-abbreviation-dataset)
 
-  Data for “A Chinese Dataset with Negative Full Forms for General Abbreviation Prediction” [[pdf]](https://arxiv.org/pdf/1712.06289.pdf).  
-  论文“A Chinese Dataset with Negative Full Forms for General Abbreviation Prediction” [[pdf]](https://arxiv.org/pdf/1712.06289.pdf)相关数据。
+  Data for “A Chinese Dataset with Negative Full Forms for General Abbreviation Prediction” [[pdf]](https://arxiv.org/pdf/1712.06289.pdf). This work builds a dataset for general Chinese abbreviation prediction. The dataset incorporates negative full forms to promote the research in this area.  
+  论文“A Chinese Dataset with Negative Full Forms for General Abbreviation Prediction” [[pdf]](https://arxiv.org/pdf/1712.06289.pdf)相关数据。本篇工作建立了一个通用的中文缩略语预测数据集，该数据集涵盖了无缩略语的完全短语，旨在促进这一领域的研究。
 
 
 
