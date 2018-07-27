@@ -20,8 +20,8 @@
 - ### [Deconv Dec](https://github.com/lancopku/DeconvDec)
 
   Code for “Deconvolution-Based Global Decoding for Neural Machine Translation”[[pdf]](https://arxiv.org/pdf/1806.03692.pdf). This work proposes a new NMT model that decodes the
-sequence with the guidance of its structural prediction of the context of the target sequence. The model gets very competitive results. It is robust to translating sentences of different lengths and it also
-reduces repetition repetition phenomenon. 
+sequence with the guidance of its structural prediction of the context of the target sequence. The model gets very competitive results. It is robust to translate sentences of different lengths and it also
+reduces repetition phenomenon. 
 
 - ### [bag-of-words](https://github.com/lancopku/bag-of-words)
 
