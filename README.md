@@ -123,7 +123,7 @@ words automatically when predicting different labels.
 
   Code for “Automatic Academic Paper Rating Based on Modularized Hierarchical Convolutional Neural Network”
 [[pdf]](https://arxiv.org/pdf/1805.03977.pdf). This work builds a
-new dataset for automatically evaluating academic papers and propose a novel modularized hierarchical convolutional neural network to for this task.  
+new dataset for automatically evaluating academic papers and proposes a novel modularized hierarchical convolutional neural network for this task.  
 
 
 - ### [tcm_prescription_generation](https://github.com/lancopku/tcm_prescription_generation)
