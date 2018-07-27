@@ -8,7 +8,7 @@
 
 - ### [meSimp](https://github.com/lancopku/meSimp)
 
-  Codes for “Training Simplification and Model Simplification for Deep Learning: A Minimal Effort Back Propagation Method" [[pdf]](https://arxiv.org/pdf/1711.06528.pdf). This work only computes a small subset of the full gradient to update the model parameters in back propagation and further simplify the model by eliminating the rows or columns that are seldom updated. Experiments show that the model could often be reduced by around 9x, without any loss on accuracy or even with improved accuracy.   
+  Codes for “Training Simplification and Model Simplification for Deep Learning: A Minimal Effort Back Propagation Method" [[pdf]](https://arxiv.org/pdf/1711.06528.pdf). This work only computes a small subset of the full gradient to update the model parameters in back propagation and further simplifies the model by eliminating the rows or columns that are seldom updated. Experiments show that the model could often be reduced by around 9x, without any loss on accuracy or even with improved accuracy.   
 
 
 - ### [Label embedding](https://github.com/lancopku/label-embedding-network)
