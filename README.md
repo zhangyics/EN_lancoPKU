@@ -66,7 +66,7 @@ high similarity between the representations of texts and summaries.
 
 - ### [superAE](https://github.com/lancopku/superAE)
 
-  Code for “Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1805.04869.pdf). This work regard a summary autoencoder as an assistant supervisor of Seq2Seq to get more informative representation of source content. Experimental results show that the model achieves the state-of-the-art performances on the benchmark dataset.  
+  Code for “Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization”[[pdf]](https://arxiv.org/pdf/1805.04869.pdf). This work regards a summary autoencoder as an assistant supervisor of Seq2Seq to get more informative representation of source content. Experimental results show that the model achieves the state-of-the-art performances on the benchmark dataset.  
 
 ## Text Generation
 
