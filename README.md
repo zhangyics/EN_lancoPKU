@@ -94,7 +94,7 @@ state to provide better supervisory signal in loss function. The new parsers out
 
 - ### [ChineseNER](https://github.com/lancopku/ChineseNER)
 
-  Code for “Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model”  
+  Code for “Cross-Domain and Semi-Supervised Named Entity Recognition in Chinese Social Media: A Unified Model”.[[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8411523). This work combines out-of-domain corpora and in-domain unannotated text to improve NER performance in social media. The unified model yields an obvious improvement over strong baselines.
   
 
 - ### [Multi-Order-LSTM](https://github.com/lancopku/Multi-Order-LSTM)
