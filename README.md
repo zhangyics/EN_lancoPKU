@@ -45,8 +45,7 @@ and higher accuracy.
 
   Code for “[Global Encoding for Abstractive Summarization](https://arxiv.org/pdf/1805.03989.pdf)”. This work proposes a framework which controls the information flow from the encoder to the decoder based on the global information of the source context. The model outperforms the baseline models and is capable of reducing repetition.  
 
-- ### [HSSC (Hierarchical Summarization and Sentiment
-Classification model)](https://github.com/lancopku/HSSC)
+- ### [HSSC (Hierarchical Summarization and Sentiment Classification model)](https://github.com/lancopku/HSSC)
 
   Code for “[A Hierarchical End-to-End Model for Jointly Improving Text Summarization and Sentiment Classification](https://arxiv.org/pdf/1805.01089.pdf)”. This work proposes a model for joint learning of text summarization and sentiment classification. Experimental results show that the proposed model achieves better performance than the strong baseline systems on both abstractive summarization and sentiment classification. 
 
