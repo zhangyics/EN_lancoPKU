@@ -73,7 +73,7 @@ high similarity between the representations of texts and summaries.
 
 - ### [Unpaired-Sentiment-Translation](https://github.com/lancopku/Unpaired-Sentiment-Translation)
 
-  Code for “[Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach](https://arxiv.org/pdf/1805.05181.pdf". This work proposes a cycled reinforcement learning method to realize sentiment-to-sentiment translation. The proposed method does not rely on parallel data and significantly outperforms the state-of-the-art systems in terms of the content preservation.  
+  Code for “[Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach](https://arxiv.org/pdf/1805.05181.pdf)". This work proposes a cycled reinforcement learning method to realize sentiment-to-sentiment translation. The proposed method does not rely on parallel data and significantly outperforms the state-of-the-art systems in terms of the content preservation.  
 
 - ### [DPGAN (Diversity-Promoting GAN)](https://github.com/lancopku/DPGAN)
 
