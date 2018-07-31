@@ -8,12 +8,12 @@
 
 - ### [meSimp (**m**inimal **e**ffort **simp**lification method for deep learning)](https://github.com/lancopku/meSimp)
 
-  Codes for “[Training Simplification and Model Simplification for Deep Learning: A Minimal Effort Back Propagation Method](https://arxiv.org/pdf/1711.06528.pdf)". This work only computes a small subset of the full gradient to update the model parameters in back propagation and further simplifies the model by eliminating the rows or columns that are seldom updated. Experiments show that the model could often be reduced by around 9x, without any loss on accuracy or even with improved accuracy.   
+  Codes for “[Training Simplification and Model Simplification for Deep Learning: A Minimal Effort Back Propagation Method](https://arxiv.org/pdf/1711.06528.pdf)”. This work only computes a small subset of the full gradient to update the model parameters in back propagation and further simplifies the model by eliminating the rows or columns that are seldom updated. Experiments show that the model could often be reduced by around 9x, without any loss on accuracy or even with improved accuracy.   
 
 
 - ### [Label Embedding Network](https://github.com/lancopku/label-embedding-network)
 
-  Code for “paper Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks”[[pdf]](https://arxiv.org/pdf/1710.10393.pdf). This work learns label representations and makes the originally unrelated labels have continuous interactions with each other during the training process. The trained model can achieve substantially higher accuracy and with faster convergence speed. Meanwhile, the learned label embedding is reasonable and interpretable. 
+  Code for “[paper Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks](https://arxiv.org/pdf/1710.10393.pdf)”. This work learns label representations and makes the originally unrelated labels have continuous interactions with each other during the training process. The trained model can achieve substantially higher accuracy and with faster convergence speed. Meanwhile, the learned label embedding is reasonable and interpretable. 
 
 ## Neural Machine Translation
 
@@ -37,7 +37,6 @@ and higher accuracy.
 
 
 ## Neural Abstractive Summarization 
-
 
 - ### [LancoSum](https://github.com/lancopku/LancoSum) (toolkit)
   This repository provides a toolkit for abstractive summarization, which can assist researchers to implement the common baseline, the attention-based sequence-to-sequence model, as well as three high quality models proposed by our group LancoPKU recently. By modifying the configuration file or the command options, one can easily apply the models to his own work. 
