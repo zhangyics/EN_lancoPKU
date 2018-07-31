@@ -1,7 +1,9 @@
+# NLP_Code_Index
+
 
 ## Deep Learning
 
-- ### [meProp (**m**inimal **e**ffort back **prop**agation method for deep learning)](https://github.com/lancopku/meProp)
+- ### [meProp (`m`inimal `e`ffort back `prop`agation method for deep learning)](https://github.com/lancopku/meProp)
 
   Code for “[meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting](http://proceedings.mlr.press/v70/sun17c/sun17c.pdf)”. This work only computes a small subset of the full gradient to update the model parameters in back propagation, leading to a linear reduction in the computational cost. This does not result in a larger number of training iterations. More interestingly, the accuracy of the resulting models is actually improved.  
 
@@ -13,7 +15,7 @@
 
 - ### [Label Embedding Network](https://github.com/lancopku/label-embedding-network)
 
-  Code for “[paper Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks](https://arxiv.org/pdf/1710.10393.pdf)”. This work learns label representations and makes the originally unrelated labels have continuous interactions with each other during the training process. The trained model can achieve substantially higher accuracy and with faster convergence speed. Meanwhile, the learned label embedding is reasonable and interpretable. 
+  Code for “[Label Embedding Network: Learning Label Representation for Soft Training of Deep Networks](https://arxiv.org/pdf/1710.10393.pdf)”. This work learns label representations and makes the originally unrelated labels have continuous interactions with each other during the training process. The trained model can achieve substantially higher accuracy and with faster convergence speed. Meanwhile, the learned label embedding is reasonable and interpretable. 
 
 ## Neural Machine Translation
 
@@ -23,7 +25,7 @@
 sequence with the guidance of its structural prediction of the context of the target sequence. The model gets very competitive results. It is robust to translate sentences of different lengths and it also
 reduces repetition phenomenon. 
 
-- ### [bag-of-words as Target for NMT](https://github.com/lancopku/bag-of-words)
+- ### [bag-of-words as target for NMT](https://github.com/lancopku/bag-of-words)
 
   Code for “[Bag-of-Words as Target for Neural Machine Translation](https://arxiv.org/pdf/1805.04871.pdf)”. This work uses both the sentences and the bag-of-words as targets in the training stage, which encourages
 the model to generate the potentially correct sentences that are not appeared in the training set. Experiments show the model outperforms the strong baselines by a large margin.
@@ -128,7 +130,7 @@ words automatically when predicting different labels.
 new dataset for automatically evaluating academic papers and proposes a novel modularized hierarchical convolutional neural network for this task.  
 
 
-- ### [tcm_prescription_generation (Traditional Chinese Medicine prescription_generation)](https://github.com/lancopku/tcm_prescription_generation)
+- ### [tcm_prescription_generation (Traditional Chinese Medicine prescription generation)](https://github.com/lancopku/tcm_prescription_generation)
 
   Code for “[Exploration on Generating Traditional ChineseMedicine Prescriptions from Symptoms with an End-to-End Approach](https://arxiv.org/pdf/1801.09030.pdf)”. This work explores the Traditional Chinese Medicine prescription generation task using seq2seq models.   
 
@@ -144,7 +146,7 @@ new dataset for automatically evaluating academic papers and proposes a novel mo
   Data for “[Building an Ellipsis-aware Chinese Dependency Treebank for Web Text](https://arxiv.org/pdf/1801.06613.pdf)”. This work builds a Chinese weibo dependency treebank which contains 572
 sentences with omissions restored and contexts reserved, aimed at improving dependency parsing for texts with ellipsis.    
 
-- ### [Chinese-abbreviation-dataset](https://github.com/lancopku/Chinese-abbreviation-dataset)
+- ### [Chinese-Abbreviation-Dataset](https://github.com/lancopku/Chinese-abbreviation-dataset)
 
   Data for “[A Chinese Dataset with Negative Full Forms for General Abbreviation Prediction](https://arxiv.org/pdf/1712.06289.pdf)”. This work builds a dataset for general Chinese abbreviation prediction. The dataset incorporates negative full forms to promote the research in this area.  
 
