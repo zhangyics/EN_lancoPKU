@@ -3,7 +3,7 @@
 
 ## Deep Learning
 
-- ### [meProp (`m`inimal `e`ffort back `prop`agation method for deep learning)](https://github.com/lancopku/meProp)
+- ### [meProp (minimal effort back propagation method for deep learning)](https://github.com/lancopku/meProp)
 
   Code for “[meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting](http://proceedings.mlr.press/v70/sun17c/sun17c.pdf)”. This work only computes a small subset of the full gradient to update the model parameters in back propagation, leading to a linear reduction in the computational cost. This does not result in a larger number of training iterations. More interestingly, the accuracy of the resulting models is actually improved.  
 
